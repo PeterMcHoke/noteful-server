@@ -1,0 +1,28 @@
+{"message":"xss is not defined","level":"error"}
+{"message":"xss is not defined","level":"error"}
+{"message":"xss is not defined","level":"error"}
+{"message":"nodeId is not defined","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"noteful_notes\" where \"id\" = ?","level":"error"}
+{"message":"noteId is not defined","level":"error"}
+{"message":"Note with id 4 deleted.","level":"info"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folder_id\", \"name\") values ($1, $2, $3) returning * - column \"name\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"delete from \"noteful_notes\" where \"id\" = $1 - invalid input syntax for type integer: \"undefined\"","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folder_id\", \"name\") values ($1, $2, $3) returning * - column \"name\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"delete from \"noteful_notes\" where \"id\" = $1 - invalid input syntax for type integer: \"undefined\"","level":"error"}
+{"message":"Note with id 7 was created","level":"info"}
+{"message":"The \"path\" argument must be of type string. Received undefined","level":"error"}
+{"message":"Note with id 8 was created","level":"info"}
+{"message":"The \"path\" argument must be of type string. Received undefined","level":"error"}
+{"message":"Note with id 9 was created","level":"info"}
+{"message":"The \"path\" argument must be of type string. Received undefined","level":"error"}
+{"message":"Note with id 10 was created","level":"info"}
+{"message":"The \"path\" argument must be of type string. Received undefined","level":"error"}
+{"message":"Note with id 11 was created","level":"info"}
+{"message":"Note with id 11 deleted.","level":"info"}
+{"message":"Note with id 10 deleted.","level":"info"}
+{"message":"Note with id 9 deleted.","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Folder with 5 was successfully created!","level":"info"}
+{"message":"The \"path\" argument must be of type string. Received undefined","level":"error"}
+{"message":"Folder with 6 was successfully created!","level":"info"}
